@@ -1,3 +1,3 @@
 <div>
-    Hello!
+    This is log in page.
 </div>
